@@ -1,0 +1,5 @@
+[‎16.‎09.‎2019 14:02]  Florian Försterling:  
+https://gerardnico.com/antlr/getting_started 
+https://www.antlr.org/papers/antlrworks-draft.pdf 
+https://www.antlr3.org/download.html 
+ 
